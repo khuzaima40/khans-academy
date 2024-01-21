@@ -1,0 +1,69 @@
+body{
+
+background-image: url(banner2.jpg);
+border-color: black solid 10px;
+
+}
+h1{
+margin-left: 0%;
+margin-top: 20px;
+font-size: 70px;
+font-family: Arial;
+background-color: antiquewhite;
+border: 2px;color: #000;
+
+}
+        header{
+font-size: 40px;
+color:black;
+        }
+        header{
+                background-color: rgba(12, 180, 180, 0.322);
+            
+        }
+
+        h2{
+      
+
+                margin-left: 0%;
+                margin-top: 20px;
+                font-size: 70px;
+                font-family: Arial;
+                background-color: rgb(10, 105, 38);
+                border: 2px;color: #000;
+
+        }
+        H3{
+
+                margin-left: 0%;
+                margin-top: 20px;
+                font-size: 70px;
+                font-family: Arial;
+                background-color: rgb(165, 123, 212);
+                border: 2px;color: #000;
+
+        }
+        section{
+font-size: 40px;
+color: #000;
+        }
+section{
+
+        background-color: cornflowerblue;
+}
+
+DIv{
+font-size: 40px;
+color: white;
+
+}
+DIv{
+background-color: brown;
+
+}
+kbd{
+        color: rgb(9, 9, 94);
+}
+Obj{
+        color: rgba(18, 18, 134, 0.541);
+}
